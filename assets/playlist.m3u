@@ -4,7 +4,7 @@
 https://m3u8-ssm.onrender.com/video/master.m3u8
 
 #EXTINF:-1 tvg-id="362" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png",[0] Star Sports Hindi 1
-https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1740981781~acl=%2f*~id=aaf549ec51984c86b32dd7de3e1334c7~data=hdntl~hmac=62bc8fff44356ff9ec16c0eb51b6ef2478b60cb1fc4d2e014584eb2f7907e538/JC_Sports18_1HD-audio_108038_eng=108000-video=3728000.m3u8
+https://jcevents.akamaized.net/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1741153381~acl=%2f*~id=97ff5c734c6f4a3ea96b01cfd44846cc~data=hdntl~hmac=0af3581f161bae67efc6d4aba882ef7a34ac308c204bfe17e7317eb77bd2aafc/index.m3u8
 
 #EXTINF:-1 tvg-id="362" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png",[0] Star Sports Hindi 2
-https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1740981781~acl=%2f*~id=aaf549ec51984c86b32dd7de3e1334c7~data=hdntl~hmac=62bc8fff44356ff9ec16c0eb51b6ef2478b60cb1fc4d2e014584eb2f7907e538/JC_Sports18_1HD-audio_108038_eng=108000-video=3728000.m3u8
+https://jcevents.akamaized.net/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1741153381~acl=%2f*~id=97ff5c734c6f4a3ea96b01cfd44846cc~data=hdntl~hmac=0af3581f161bae67efc6d4aba882ef7a34ac308c204bfe17e7317eb77bd2aafc/index.m3u8
