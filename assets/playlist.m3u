@@ -8,3 +8,9 @@ https://jcevents.akamaized.net/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1741153381
 
 #EXTINF:-1 tvg-id="362" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png",[0] Star Sports Hindi 2
 https://jcevents.akamaized.net/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1741153381~acl=%2f*~id=97ff5c734c6f4a3ea96b01cfd44846cc~data=hdntl~hmac=0af3581f161bae67efc6d4aba882ef7a34ac308c204bfe17e7317eb77bd2aafc/index.m3u8
+
+#EXTINF:-1 tvg-id="999" group-title="Sports" tvg-language="English" tvg-logo="https://example.com/your_logo.png",MPD Stream - Nitro
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1jii7mxinw/out/v1/fe9782633a364a6a84c9410f26d9b2c4/cenc.mpd
+
+#EXTINF:-1 tvg-id="1000" group-title="Sports" tvg-language="English" tvg-logo="https://example.com/your_logo.png",MPD Stream - ICC
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1741536912~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=1bef778e32e7f18f2009d9c5d590e0ea2092e50c4e960227f35c7537ad7392a7/manifest.mpd?vcfilter=25555143-e6a8-4bdd-9d96-37f9e5cea3e8&sessid=25555143-e6a8-4bdd-9d96-37f9e5cea3e8-d|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36&drmScheme=clearkey&drmLicense=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
