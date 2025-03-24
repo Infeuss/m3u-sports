@@ -4,7 +4,7 @@
 https://m3u8-ssm.onrender.com/video/master.m3u8
 
 #EXTINF:-1 tvg-id="430" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",SPORTS 18
-https://live-ak.vimeocdn.com/exp=1742832842~acl=%2F5d88313c-a3f0-4dfc-be9f-f736742ddaf5_fmp4%2F%2A~hmac=bad67390fdc86022c1c17b7e487b6ab6a25616428c82c87145c0db1d6cac01ed/5d88313c-a3f0-4dfc-be9f-f736742ddaf5_fmp4/hls.m3u8
+https://live-ak.vimeocdn.com/exp=1742836715~acl=%2F5d88313c-a3f0-4dfc-be9f-f736742ddaf5_fmp4%2F%2A~hmac=13703a6263abc8b2d175002a55fd78fada9109b04de3460ca4adcf15f2114fdf/5d88313c-a3f0-4dfc-be9f-f736742ddaf5_fmp4/hls.m3u8
 
 #EXTINF:-1 tvg-id="430" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",SPORTS 18
 https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1742807560~acl=%2f*~data=hdntl~hmac=c13add491ce7c3b1d330affbd97cee9fcec05c881cca43920854bcf1fcbc3c7b/Sports18_1_HD_voot_MOB-audio_42842_eng=42800-video=3728000.m3u8
